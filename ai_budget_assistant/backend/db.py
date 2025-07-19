@@ -1,0 +1,1 @@
+# Placeholder for PostgreSQL or Supabase integration
